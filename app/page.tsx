@@ -15,9 +15,10 @@ export default function Home() {
           <h1 className="capitalize text-4xl md:text-7xl font-bold">
             job <span className="text-primary">tracking</span> app
           </h1>
-          <p className="leading-loose max-w-md mt-4">
-            Effortlessly search and apply for jobs, track your applications, and get personalized career advice. Jobseekr is your one-stop
-            shop for finding your next career move.
+          <p className="leading-loose max-w-xl mt-4">
+            Empower your job search with JobSeekr. Our innovative platform simplifies the process with features like efficient job search
+            tools and a centralized application tracker. Eliminate the hassle and connect with your ideal career path. Sign up for free and
+            elevate your professional journey.
           </p>
           <Button asChild className="mt-4">
             <Link href={'/add-job'}>Get Started</Link>
