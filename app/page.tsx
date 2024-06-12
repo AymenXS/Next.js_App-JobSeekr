@@ -16,8 +16,8 @@ export default function Home() {
             job <span className="text-primary">tracking</span> app
           </h1>
           <p className="leading-loose max-w-md mt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita similique neque perferendis distinctio vel fuga asperiores
-            laborum omnis possimus labore quas, praesentium officia dolor explicabo rem maiores quia vero. Ipsa!
+            Effortlessly search and apply for jobs, track your applications, and get personalized career advice. Jobseekr is your one-stop
+            shop for finding your next career move.
           </p>
           <Button asChild className="mt-4">
             <Link href={'/add-job'}>Get Started</Link>
